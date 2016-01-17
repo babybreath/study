@@ -1,4 +1,5 @@
 # 桥联模式
+
 1. 使用命令 ip addr 查看当前网卡设置
 2. vi /etc/sysconfig/network-scripts/你的网卡配置文件
 3. 将 ONBOOT=no 改为 ONBOOT=yes (此时重启将由路由器DHCP自动分配IP，为了固定IP继续设置)
