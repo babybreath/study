@@ -1,14 +1,10 @@
 # 个人学习
 
-## linux
 
-1. centos7虚拟机配置联网
-2. centos7配置yum源
-
-## javascript
+## gulp
+- gulp构建脚本
 
 
-
-## 其他
+## editorconfig
 
 - EditorConfig使用介绍
